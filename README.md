@@ -8,8 +8,8 @@
 ### Achievements: Users can unlock achievements based on their habit completion.
 ### FAQ Section: Each habit comes with a detailed FAQ explaining the benefits of the habit.
 ### Modern UI: The application features a clean and modern user interface, making it easy to navigate.
-### Technologies Used
-### Programming Languages
+
+## Technologies Used & Programming Languages
 ### Ruby: The core programming language used to develop the application.
 ### SQL: Used for database management to store and retrieve habit data.
 ### Libraries and Frameworks
