@@ -1,4 +1,4 @@
-###Habit Tracker Application
+### Habit Tracker Application
 ##Overview
 #The Habit Tracker Application is a desktop application designed to help users monitor and maintain healthy habits. With this app, users can select predefined habits, mark them as completed, and track their progress over time. The application also includes a feature for viewing achievements and a FAQ section for each habit to provide additional information on why these habits are beneficial.
 
